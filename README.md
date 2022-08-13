@@ -1,0 +1,2 @@
+# bhgenie
+Self running generator
